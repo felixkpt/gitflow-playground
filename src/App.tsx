@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-
+import ListItems from './list'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -11,8 +11,10 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           Your count current is {count}
         </button>
+        <ListItems />
       </div>
     </>
+
   )
 }
 
