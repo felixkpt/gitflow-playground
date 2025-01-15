@@ -9,7 +9,8 @@ function App() {
       <h1>Gitflow playground -- JRS18</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          Your count current is {count}
+         Your count is {count}
+          
         </button>
         <ListItems />
       </div>
