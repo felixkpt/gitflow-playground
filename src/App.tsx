@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Gitflow playground -- cqro</h1>
+      <h1>Gitflow playground -- JRS18</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           Your count current is {count}
