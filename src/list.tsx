@@ -1,5 +1,5 @@
 function ListItems(){
-const city = ['Nairobi', 'Kisumu', 'Eldoret', 'Mombasa','Nakuru'];
+const city = ['Nairobi', 'Kisumu', 'Eldoret', 'Mombasa','Nakuru','Konza'];
 
 return(
    <>
