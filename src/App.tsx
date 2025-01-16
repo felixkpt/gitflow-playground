@@ -11,7 +11,6 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           Your count was {count} and is now {count + 1} 😁😁😁
         </button>
-
         <p>Hello Git. 🙌 Creating a merge conflict😁</p>
         <ListItems />
       </div>
