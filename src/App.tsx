@@ -11,7 +11,7 @@ function App() {
       <h2>Employee system</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          Your count was {count} and is now {count + 1} 😁😁😁
+         This count is {count + 4} I am reaally trying to conflict
         </button>
         <p>Hello Git. 🙌 Creating a merge conflict😁</p>
         <ListItems />
